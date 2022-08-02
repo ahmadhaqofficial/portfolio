@@ -109,11 +109,7 @@ export default function AboutMe({}) {
           💼 <span>Tools:</span> Visual Studio Code, Android Studio, GitHub
           Desktop, Windows Terminal, Firebase, Netlify, Adobe XD and Git.
         </div>
-        <a
-          href="https://docs.google.com/document/d/1Z3e-5Ti2Zw9aol5RH5BUoiL8AC7HROHHQQkfvX6MQbQ/edit?usp=sharing"
-          className="home__section__button"
-          title="Download CV"
-        >
+        <a href="" className="home__section__button" title="Download CV">
           Download CV
         </a>
       </div>
