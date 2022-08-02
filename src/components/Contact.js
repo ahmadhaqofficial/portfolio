@@ -33,7 +33,7 @@ export default function Contact({}) {
               <Phone size={20} color="currentColor" />
             </div>
             <div className="services__section__content__left__entry__content">
-              +92 313 7178074
+              +92 302 1655400
             </div>
           </div>
           <div className="services__section__content__left__entry">
@@ -41,7 +41,7 @@ export default function Contact({}) {
               <Mail size={20} color="currentColor" />
             </div>
             <div className="services__section__content__left__entry__content">
-              mehfoozijaz786@gmail.com
+              ahmadhaq61@gmail.com
             </div>
           </div>
         </div>

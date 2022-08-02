@@ -12,28 +12,28 @@ export default function Socials({}) {
       <div className="social__links">
         <div className="social__links__entries">
           <a
-            href="https://github.com/MehfoozurRehman"
+            href="https://github.com/ahmadhaqofficial"
             title="github"
             className="social__links__entries__link"
           >
             <GitHub size={20} color="currentColor" />
           </a>
           <a
-            href="https://www.facebook.com/MehfoozurRehmanIjaz/?_rdc=1&_rdr"
+            href="https://www.facebook.com/profile.php?id=100037264952877"
             title="facebook"
             className="social__links__entries__link"
           >
             <Facebook size={20} color="currentColor" />
           </a>
           <a
-            href="https://www.instagram.com/mehfoozurrehman___/"
+            href="https://www.instagram.com/ahmadbutt8096/?hl=en"
             title="instagram"
             className="social__links__entries__link"
           >
             <Instagram size={20} color="currentColor" />
           </a>
           <a
-            href="https://www.linkedin.com/in/mehfooz-rehman-37a1b0231/"
+            href="https://www.linkedin.com/in/ahmad-haq-a78134244/"
             title="linkedin"
             className="social__links__entries__link"
           >
@@ -50,11 +50,8 @@ export default function Socials({}) {
         <div className="social__links__line"></div>
       </div>
       <div className="social__email">
-        <a
-          href="mailto:mehfoozijaz786@gmail.com"
-          className="social__email__text"
-        >
-          mehfoozijaz786@gmail.com
+        <a href="mailto:ahmadhaq61@gmial.com" className="social__email__text">
+          ahmadhaq61@gmial.com
         </a>
         <div className="social__links__line"></div>
       </div>

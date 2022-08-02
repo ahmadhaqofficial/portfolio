@@ -2,7 +2,7 @@ export default function HomeSection({}) {
   return (
     <section id="home__section" className="home__section">
       <div className="home__section__sub__heading">Hi, i am</div>
-      <div className="home__section__heading">Mefooz-ur-Rehman</div>
+      <div className="home__section__heading">Ahmad-haq</div>
       <div className="home__section__slogan">
         Let's Build You A <span>Digital Identity</span>
       </div>
