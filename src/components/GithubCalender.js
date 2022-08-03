@@ -4,7 +4,7 @@ export default function GithubCalender({}) {
   return (
     <div className="github__calender__wapper">
       <Calendar
-        username="mehfoozurrehman"
+        username="Ahmadhaq"
         color="#64ffda"
         showWeekdayLabels
         fontSize={14}

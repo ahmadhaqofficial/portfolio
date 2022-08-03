@@ -39,13 +39,13 @@ export default function Socials({}) {
           >
             <Linkedin size={20} color="currentColor" />
           </a>
-          <a
+          {/* <a
             href="https://codesandbox.io/u/MehfoozurRehman"
             title="codesandbox"
             className="social__links__entries__link"
           >
             <Codesandbox size={20} color="currentColor" />
-          </a>
+          </a> */}
         </div>
         <div className="social__links__line"></div>
       </div>
