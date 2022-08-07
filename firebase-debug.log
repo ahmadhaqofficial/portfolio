@@ -1,0 +1,44 @@
+[debug] [2022-08-07T05:33:04.923Z] ----------------------------------------------------------------------
+[debug] [2022-08-07T05:33:04.929Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-08-07T05:33:04.930Z] CLI Version:   11.4.2
+[debug] [2022-08-07T05:33:04.931Z] Platform:      win32
+[debug] [2022-08-07T05:33:04.931Z] Node Version:  v18.2.0
+[debug] [2022-08-07T05:33:04.933Z] Time:          Sat Aug 06 2022 22:33:04 GMT-0700 (Pacific Daylight Time)
+[debug] [2022-08-07T05:33:04.934Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-07T05:33:05.263Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-08-07T05:33:05.263Z] > authorizing via signed-in user (ahmadhaq61@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\DELL
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-08-07T05:34:04.350Z] Using project from CLI flag: madina-college-samundri
+[debug] [2022-08-07T05:34:04.354Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/madina-college-samundri [none]
+[debug] [2022-08-07T05:34:05.323Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/madina-college-samundri 200
+[debug] [2022-08-07T05:34:05.323Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/madina-college-samundri {"projectId":"madina-college-samundri","projectNumber":"309658241198","displayName":"madina college samundri","name":"projects/madina-college-samundri","resources":{"hostingSite":"madina-college-samundri"},"state":"DELETED","etag":"1_8a5c73f2-6c6b-405a-b332-f1397e9c5f0c"}
+[info] i  Using project madina-college-samundri (madina college samundri) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
